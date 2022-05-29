@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subhranil Sarkar</h1>
 <h3 align="center">Data Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhranil2699&label=Profile%20views&color=0e75b6&style=flat" alt="subhranil2699" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhranil2605&label=Profile%20views&color=0e75b6&style=flat" alt="subhranil2605" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhranil2699" alt="subhranil2699" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhranil2605" alt="subhranil2605" /></a> </p>
 
 - 💬 Ask me about **python, flutter, dart**
 
